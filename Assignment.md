@@ -2,67 +2,90 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **Admission Number**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Faith Njuguna
+- **Admission Number**: 150325
+- **GitHub Username**: nyambura-pov
+- **Email**: faith.njuguna@strathmore.edu
 
 ## 2. Deployed Portfolio Link
 
-- **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+- **GitHub Pages URL**:  [https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-nyambura-pov/](https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-nyambura-pov/)
 
 ## 3. Learnings from the Git Crash Program
 
-Write about **4 things** you expected to learn during the Git crash course (yes, we all came in with some big hopes 😅).
-For each one, mention:
+### 1. Concept: Branching
 
-What you thought it would be like **(Expectation 👀)**
+**Expectation 👀**: I thought branching was only necessary when working on large codebases with multiple developers.
 
-What you actually learned **(Reality 😅)**
+**Reality 😅**: I discovered that branches are essential even for solo projects. They help isolate new features and prevent accidental bugs in the main code.
 
-And how it helped with your personal portfolio project 💻
+**Impact 💡**: I created separate feature branches for each issue and merged them back safely. This allowed smooth development and version control across different portfolio sections.
 
-make it honest—and if it surprised you, even better!
 
-Example format:
 
-**🧠 What I Thought I'd Learn vs What I Actually Learned**
-**1. Concept: Branching**
+### 2. Concept: Commit Messages
 
-`Expectation 👀` : I thought branching was just for developers working on big apps—nothing I’d need for a small project.
+**Expectation 👀**: I assumed any message was fine, as long as I remembered what it was about.
 
-`Reality 😅`: Turns out even solo devs need branches! It helped me avoid breaking my main code while testing new designs.
+**Reality 😅**: Structured commit messages actually make it easier to track changes, understand progress and even automatically close issues.
 
-`Impact 💡`: I created a feature branch for my "About Me" section and merged it smoothly into the main branch after testing. Super useful!
+**Impact 💡**: I followed the `type(scope): message` format for commits, like `feat: added hero section`. It made my Git history clean, informative, and professional.
+
+
+
+### 3. Concept: Pull Requests
+
+**Expectation 👀**: I thought pull requests were only useful for teams to review each other's work.
+
+**Reality 😅**: Turns out, even for solo projects, PRs help simulate teamwork and allow me to catch issues before merging.
+
+**Impact 💡**: I opened pull requests for each feature, reviewed changes and documented merge actions. It gave me hands-on experience with collaborative workflows.
+
+
+
+### 4. Concept: Merge Conflicts
+
+**Expectation 👀**: I expected merge conflicts to be rare and impossible to simulate intentionally.
+
+**Reality 😅**: I learned how to deliberately cause and resolve merge conflicts, which gave me confidence to handle them when they actually occur.
+
+**Impact 💡**: I successfully resolved a conflict between two branches that changed the same paragraph in `index.html`. It was a valuable learning experience for real-world scenarios.
+
 
 ## 4. Screenshots of Key GitHub Features
 
-Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, write a short caption explaining what it shows.
-
-> Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
-> (you could just simply copy and paste the image into the Assignment.md)
-
-```markdown
-![Caption](path/to/your/image.png)
-```
-
 ### A. Milestones and Issues
 
-- Screenshot showing your milestone(s) and the issues linked to it.
+![Milestones created for the assignment](<milestones.jpg>)
+
+![Example of an issue](<sample issue.jpg>)
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+![Creation of project](<project created.jpg>)
 
 ### C. Branching
 
-- Screenshot showing your branch list with meaningful naming.
+![Branches created](<branches.jpg>)
 
 ### D. Pull Requests
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+![Merged pull requests](<pull requests.jpg>)
 
 ### E. Merge Conflict Resolution
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+![Merge conflict simulated](<merge conflict 1.jpg>)
+
+![Merge conflict simulated](<merge conflict 2.jpg>)
+
+### Below are some other screenshots:
+
+![Example of a commit message](<commit message-1.jpg>)
+
+![Example of a fix commit message](<fix commit message.jpg>)
+
+![Website deployment using github pages](<website deployment.jpg>)
+
+![Created portfolio](<portfolio 1.jpg>)
+
+![Created portfolio](<portfolio 2.jpg>)
