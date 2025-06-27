@@ -58,6 +58,8 @@
 
 ![Milestones created for the assignment](<milestones.jpg>)
 
+![Completed milestones](<milestones 2.jpg>)
+
 ![Example of an issue](<sample issue.jpg>)
 
 ### B. Project Board
@@ -67,6 +69,8 @@
 ### C. Branching
 
 ![Branches created](<branches.jpg>)
+
+![Branches created](<branches 2.jpg>)
 
 ### D. Pull Requests
 
@@ -83,6 +87,8 @@
 ![Example of a commit message](<commit message-1.jpg>)
 
 ![Example of a fix commit message](<fix commit message.jpg>)
+
+![Example of a docs commit message](<commit 2.jpg>)
 
 ![Website deployment using github pages](<website deployment.jpg>)
 
